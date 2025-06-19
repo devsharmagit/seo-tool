@@ -1,0 +1,20 @@
+{
+  "name": "seotool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0",
+    "natural": "^8.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
